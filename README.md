@@ -18,7 +18,7 @@ So I built Creneow:
 - **Get the day.** A custom scheduling engine spreads the work across the team, tested on 500 simulated days.
 - **Print the labels.** One per cart: name, "3/12" so everyone knows where they stand, time slot and code. Or send the PDF by email.
 
-**Creneow already runs in 10 high-turnover discount retail stores.** It lives on a phone in the stockroom, and it gets better every week thanks to the store managers who use it (and tell me exactly what they think).
+**Creneow already runs in 10 high-turnover discount retail stores, saving the manager in charge of scheduling about an hour a day.** It lives on a phone in the stockroom, and it gets better every week thanks to the store managers who use it (and tell me exactly what they think).
 
 More at **[creneow.fr](https://creneow.fr)**.
 
