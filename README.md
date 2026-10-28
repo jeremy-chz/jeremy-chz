@@ -1,7 +1,7 @@
 ## Hi there, I'm Jérémy
 
 I like building things that people actually use on a Monday morning.
-Right now that thing is **[Creneow](https://creneow.fr)**: it turns a pile of delivery sheets into a full day's schedule before the coffee gets cold.
+Right now that thing is **[Creneow](https://creneow.fr)**: it turns a pile of delivery sheets into a full day's schedule.
 
 ---
 
