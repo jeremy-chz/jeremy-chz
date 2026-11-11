@@ -23,5 +23,4 @@ So I built Creneow:
 More at **[creneow.fr](https://creneow.fr)**.
 
 ### Say hi
-
-jeremy.chaze@icloud.com | www.linkedin.com/in/jeremy-chaze
+www.linkedin.com/in/jeremy-chaze
